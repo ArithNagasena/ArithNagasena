@@ -20,12 +20,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **full-stack software engineer** from Sri Lanka who enjoys building things that span the whole stack, from a React front end to a microcontroller on the desk.
+**Undergraduate at the University of Plymouth and Kingston University** passionate about building full-stack solutions and exploring the world of **software engineering, networking, AI, IoT, and embedded systems** — from a React front end to a microcontroller on the desk.
 
-- 🌱 Currently learning AI Driven Full-stack Developer - Professional Certification(StemLink)
-- 🎓 BSc (Hons) Software Engineering student, **University of Plymouth**
-- 🛠️ Working across **web, AI integration, IoT, embedded systems, networking & cybersecurity**
-- 📫 Reach me at **arithcola@gmail.com**
+* 🎓 Undergraduate in **Software Engineering**
+* 🛠️ Working across **full-stack development, AI integration, IoT, embedded systems, networking & cybersecurity**
+* 🌱 Currently learning **AI-Driven Full-Stack Development**
+* 📫 Reach me at **[arithcola@gmail.com](mailto:arithcola@gmail.com)**
+
 
 
 </td>
