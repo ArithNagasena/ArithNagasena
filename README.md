@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h3>Full-Stack Development &nbsp;•&nbsp; AI &amp; RPA &nbsp;•&nbsp; IoT &amp; Embedded Systems &nbsp;•&nbsp; Networking &amp; Cybersecurity</h3>
+<h3>Full-Stack Development &nbsp;•&nbsp; IoT &amp; Embedded Systems &nbsp;•&nbsp; Networking &amp; Cybersecurity</h3>
 
 <img src="https://komarev.com/ghpvc/?username=arithnagasena&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/badge/Undergraduate-NSBM-0e75b6?style=for-the-badge" alt="NSBM"/>
@@ -20,14 +20,12 @@
 <tr>
 <td width="60%" valign="top">
 
-**Undergraduate at the University of Plymouth and Kingston University** passionate about building full-stack solutions and exploring the world of **software engineering, networking, AI, IoT, and embedded systems** — from a React front end to a microcontroller on the desk.
+**Undergraduate at the University of Plymouth and Kingston University** passionate about building full-stack solutions and exploring the world of **software engineering, networking, AI, IoT, and embedded systems** from a React front end to a microcontroller on the desk.
 
 * 🎓 Undergraduate in **Software Engineering**
-* 🛠️ Working across **full-stack development, AI integration, IoT, embedded systems, networking & cybersecurity**
+* 🛠️ Working across **full-stack development, AI-assisted development, IoT, embedded systems, networking & cybersecurity**
 * 🌱 Currently learning **AI-Driven Full-Stack Development**
 * 📫 Reach me at **[arithcola@gmail.com](mailto:arithcola@gmail.com)**
-
-
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -49,8 +47,8 @@
 <sub>Full-stack apps with React, Next.js, Node.js, NestJS and .NET</sub>
 </td>
 <td align="center" width="33%">
-<h3>🤖 AI &amp; Automation</h3>
-<sub>AI integration and Robotic Process Automation (RPA)</sub>
+<h3>🤖 AI-Powered Development</h3>
+<sub>Using AI to build applications faster and integrating AI features into software</sub>
 </td>
 <td align="center" width="33%">
 <h3>📡 IoT &amp; Embedded</h3>
@@ -131,30 +129,26 @@ BSc (Hons) Network and Network Security<br/>
 
 ## 🚀 Featured Projects
 
-<!-- Replace each entry below with a real project, then delete this comment. -->
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 📌 [Project Name](https://github.com/arithnagasena/REPO_NAME)
-One-line description of what it does and why it matters
+### 📌 [AgriBot Smart Agriculture System](https://github.com/ArithNagasena/AgriBot.git)
+One of the most fully developed Intelligent Agriculture Management Systems in Sri Lanka. A web application for IoT embedded soil sensors, with real-time telemetry, ML crop recommendations, an AI farming assistant, and automated irrigation.
 
-`React` `Node.js` `MongoDB`
+<img height="40" src="https://skillicons.dev/icons?i=arduino,nodejs,python,nestjs,nextjs" alt="Arduino, Node.js, Python, NestJS, Next.js"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 📌 [Project Name](https://github.com/arithnagasena/REPO_NAME)
-One-line description of what it does and why it matters.
+### 📌 [DreamToonStudio-Character Designer Software](https://github.com/ArithNagasena/DreamToon-Studio.git)
+A MERN app that lets designers create simple cartoon characters (animals, plants and humans) for educational games. Every character is one parametric model rendered two ways: SVG in 2D and three.js in 3D. A change in one view is instantly correct in the other.
 
-`Python` `IoT` `Arduino`
+<img height="40" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express.js, React, Node.js"/>
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ## 🤝 Connect With Me
 
