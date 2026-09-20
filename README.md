@@ -137,7 +137,7 @@ BSc (Hons) Network and Network Security<br/>
 <td width="50%" valign="top">
 
 ### 📌 [Project Name](https://github.com/arithnagasena/REPO_NAME)
-One-line description of what it does and why it matters.
+One-line description of what it does and why it matters
 
 `React` `Node.js` `MongoDB`
 
